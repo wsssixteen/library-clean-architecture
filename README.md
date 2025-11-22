@@ -1,7 +1,6 @@
 # 📚 Book Library API — Clean Architecture (.NET)
 
-A modular **ASP.NET Core Web API** built with **Clean Architecture**, **SOLID principles**, **Entity Framework Core**, **SQL Server**, and **Fluent API** configurations.  
-Designed with production-ready backend structure using **Domain–Application–Infrastructure–API** layering, **repository pattern**, **DTO mappings**, and **unit-tested** application services.
+A modular **ASP.NET Core Web API** built with **Clean Architecture**, **SOLID principles**, **Entity Framework Core**, **SQL Server**, and **Fluent API** configurations. Designed with production-ready backend structure using **Domain–Application–Infrastructure–API** layering, **repository pattern**, **DTO mappings**, and **unit-tested** application services.
 
 > This project serves as a real-world backend example suitable for enterprise use, interviews, and portfolio demonstration.
 
