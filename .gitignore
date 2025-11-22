@@ -1,0 +1,60 @@
+############################
+# Build Output
+############################
+bin/
+obj/
+[Bb]uild/
+dist/
+out/
+publish/
+
+############################
+# Visual Studio
+############################
+.vs/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.userosscache
+*.sln.docstates
+
+############################
+# ASP.NET / .NET
+############################
+*.dbmdl
+*.jfm
+
+# Optional: ignore dev-only appsettings
+appsettings.Development.json
+
+# User secrets
+secrets.json
+
+############################
+# Logs
+############################
+*.log
+logs/
+LogFiles/
+
+############################
+# OS / Editor Files
+############################
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+############################
+# Rider / JetBrains
+############################
+.idea/
+*.iws
+*.iml
+*.sln.iml
+
+############################
+# Docker
+############################
+docker-compose.override.yml
