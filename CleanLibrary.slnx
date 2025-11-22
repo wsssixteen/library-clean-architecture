@@ -6,4 +6,5 @@
   <Project Path="BookLibrary.Application/BookLibrary.Application.csproj" />
   <Project Path="BookLibrary.Domain/BookLibrary.Domain.csproj" />
   <Project Path="BookLibrary.Infrastructure/BookLibrary.Infrastructure.csproj" />
+  <Project Path="BookLibrary.Tests/BookLibrary.Tests.csproj" />
 </Solution>

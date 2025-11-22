@@ -32,7 +32,7 @@ namespace BookLibrary.Application.Books
             var book = new Book(request.Title, request.Author, request.Price);
 
             await _repository.AddAsync(book, ct);
-            await _repository.SaveChangesAsync();
+            await _repository.SaveChangesAsync(ct);
 
             return book.ToDto();
         }
