@@ -163,6 +163,7 @@ Inside Visual Studio:
 
 ```json
 {
+  "id": 1,
   "title": "Clean Architecture",
   "author": "Robert C. Martin",
   "price": 99.90
